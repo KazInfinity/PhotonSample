@@ -34,3 +34,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+PhotonTest/Assets/Photon/
+PhotonTest/Assets/Photon.meta
